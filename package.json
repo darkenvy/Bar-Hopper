@@ -1,0 +1,21 @@
+{
+  "name": "Barhopping",
+  "version": "0.0.1",
+  "description": "Find a bar newar you",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkenvy/Bar-Hopper"
+  },
+  "author": "Axel Candia (axelcandia2609@gmail.com) and ",
+  "license": "Apache-2.0.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "https://github.com/darkenvy/Bar-Hopper/issues"
+  },
+  "homepage": "https://github.com/darkenvy/Bar-Hopper"
+}
